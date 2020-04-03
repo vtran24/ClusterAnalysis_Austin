@@ -27,7 +27,7 @@ Cluster 3 (North Lamar)
 3. High incarceration rate
 4. Low employment rate
 
-Cluster 1 Areas in Springbrook are more suburban, demographics are 88% homeowners averaging around 41 years old. This area is great for families to settle into with its reasonable housing prices, opportunities for employment, low crime rates, and good school districts.  
+Cluster 1 Areas in Springbrook (more north of downtown) are more suburban, demographics are 88% homeowners averaging around 41 years old. This area is great for families to settle into with its reasonable housing prices, opportunities for employment, low crime rates, and good school districts.  
 
 Cluster 2 Areas near Central Austin is desirable for its abundance of job opportunities. Its economy is in good health with low crimes possibly because of its excellent public school systems and colleges, and according to Niche, it's the 17th best city in America to live in for young professionals. It's also a good place to start a family because of its great school systems and low crime rate. 
 
@@ -39,8 +39,6 @@ Cluster 3 Areas (further from downtown) are characterized by smaller, more urban
 https://www.opportunityatlas.org
 https://www.tandfonline.com/doi/abs/10.1080/00207237608737626?journalCode=genv20
 https://realestate.usnews.com/places/rankings/best-places-to-live
-
-### Excel Sheet
 
 
 ### Excel Steps
@@ -56,9 +54,4 @@ https://realestate.usnews.com/places/rankings/best-places-to-live
 10. The more accurate anchor points will result. Use conditional formatting to color code each cluster for better display. 
 11. Determine the characteristics of each cluster. 
 
-Define an initial business question
-Define the data-related questions and metrics
-Perform calculations and model-building to answer the data-related questions
-Relate the data findings back to your initial question and outline what your cluster model tells us about the related organization
-A brief description of your findings and background data with at least one data visualization
-An outline of your business question → data question → data answer → business answer process and findings
+
