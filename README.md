@@ -3,9 +3,9 @@
 According to US News, Austin, Texas is declared to be the #1 city in America to live in because of its quality of life for the third time in a row. 
 
 Although no correct system of metrics have been discovered yet to accurately measure quality of life, potential indicators that are important to a community are environmental qualities, nutrition/health, economic conditions/finances, security, education, and recreation. 
-This cluster analysis explores different factors that may contribute to this ranking and groups different census tracts in Austin with Household Income, Incarceration Rates, Job Growth Rate, and Employment Rate as the metrics to analyze which parts of this big city is more attractive to live in as these factors have the most data and can be used to assess economic conditions, finances, and security. 
+This cluster analysis explores different factors that may contribute to this ranking and groups different census tracts in Austin with **Household Income, Incarceration Rates, Job Growth Rate, and Employment Rate** as the metrics to analyze which parts of this big city is more attractive to live in as these factors have the most data and can be used to assess economic conditions, finances, and security. 
 
-This analysis also gives light to different demographics in each cluster and why it might be attractive for different people to live these areas. 
+**This analysis also gives light to different demographics in each cluster and why it might be attractive for people for various needs to live these areas.**
 ## Data Analysis
 The cluster analysis has 3 clusters as it allows each group to embody distinctive qualities. The anchor tracts that resulted are **Springbrook, Pflugerville, TX** (cluster 1), **Austin, TX** (cluster 2), and **North Lamar, Austin, TX** (cluster 3). 
 
