@@ -9,6 +9,9 @@ This cluster analysis explores different factors that may contribute to this ran
 ## Data Analysis
 The cluster analysis has 3 clusters as it allows each group to embody distinctive qualities. The anchor tracts that resulted are **Springbrook, Pflugerville, TX** (cluster 1), **Austin, TX** (cluster 2), and **North Lamar, Austin, TX** (cluster 3). 
 
+![Picture1](https://user-images.githubusercontent.com/60996310/78418430-f971f600-7609-11ea-9073-57f4b39aabbd.png)
+
+
 Cluster 1 (Springbrook)
 1. Average household income
 2. High job growth
