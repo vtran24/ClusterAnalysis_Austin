@@ -56,5 +56,6 @@ https://realestate.usnews.com/places/rankings/best-places-to-live
 9. Use the Solver tool. Cell is the sum of minimum distance cell, set to min, enter constraints (trial values cells >= 1, trial values cells are an integer, trial value cells <=265), set to evolutionary
 10. The more accurate anchor points will result. Use conditional formatting to color code each cluster for better display. 
 11. Determine the characteristics of each cluster. 
+12. Select scatterplot and insert appropriate data points for each cluster. 
 
 
